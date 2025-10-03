@@ -8,8 +8,8 @@ const port = 3000;
 const dbConfig = {
     host: '0.0.0.0',
     user: 'root',
-    password: 'Xolisa@1986',
-    database: 'metrics',
+    password: 'XXXXXX',
+    database: 'mmmmmm',
     connectionLimit: 10 // Add connection limit for pool
 };
 
